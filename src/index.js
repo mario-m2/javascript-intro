@@ -1,12 +1,1 @@
-
-
-
-
-
-
-console.log('Hola Mundo!!')
-
-
-
-
-
+console.log('Ejercicios en JavaScript')

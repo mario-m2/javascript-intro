@@ -1,1 +1,1 @@
-# Aquí colocaremos un respaldo de nuestro código
+# Respaldo de ejercicios realizados
